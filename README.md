@@ -1,1 +1,1 @@
-# Slot-Machine
+# Java Slot-Machine
