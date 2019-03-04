@@ -39,7 +39,7 @@ public class Main {
             //print results
 
            if (playGame == true) {
-            // winning fruit since i can't compare a string from an ArrayList
+            // winning fruit need to compare a string from an ArrayList
             String fruitWin =  fruits.get((int) Math.floor(Math.random() * 5));
             String gemstoneWin =  gemstones.get((int) Math.floor(Math.random() * 6));
             String numberWin =  numbers.get((int) Math.floor(Math.random() * 7));
